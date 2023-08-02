@@ -3,11 +3,11 @@
   <title>组会</title>
   
   
-  <link href="https://github.com/HAR2023/HAR2023.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/HAR2023/HAR2023.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2023-07-27T09:07:43.973Z</updated>
-  <id>https://github.com/HAR2023/HAR2023.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>USC_HAR</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://github.com/HAR2023/HAR2023.github.io/2023/07/27/2023-7-27/"/>
-    <id>https://github.com/HAR2023/HAR2023.github.io/2023/07/27/2023-7-27/</id>
+    <link href="http://example.com/2023/07/27/2023-7-27/"/>
+    <id>http://example.com/2023/07/27/2023-7-27/</id>
     <published>2023-07-27T07:45:57.724Z</published>
     <updated>2023-07-27T09:07:43.973Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/HAR2023/HAR2023.github.io/2023/07/21/hello-world/"/>
-    <id>https://github.com/HAR2023/HAR2023.github.io/2023/07/21/hello-world/</id>
+    <link href="http://example.com/2023/07/21/hello-world/"/>
+    <id>http://example.com/2023/07/21/hello-world/</id>
     <published>2023-07-21T12:57:32.915Z</published>
     <updated>2023-07-21T12:57:32.915Z</updated>
     
