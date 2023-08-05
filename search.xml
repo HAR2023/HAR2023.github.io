@@ -52,15 +52,13 @@
     <content><![CDATA[<h2 id="1、配置"><a href="#1、配置" class="headerlink" title="1、配置"></a>1、配置</h2><h2 id="2、新建文章"><a href="#2、新建文章" class="headerlink" title="2、新建文章"></a>2、新建文章</h2><h3 id="使用命令来新建文章"><a href="#使用命令来新建文章" class="headerlink" title="使用命令来新建文章"></a>使用命令来新建文章</h3><p><code>hexo new  &quot;title&quot;</code></p>
 <p>例如 <code>hexo new  &quot;使用指南&quot;</code></p>
 <p>之后会生成一个  “使用指南.md”的文档：</p>
-<p>![](C:\Users\hey WYL\AppData\Roaming\Typora\typora-user-images\image-20230805154834123.png)</p>
-<p>![](C:\Users\hey WYL\Desktop\RO4I.gif)</p>
+<p><img src="/../images/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/image-20230805161547603.png" alt="image-20230805161547603"></p>
 <p>在生成路径下即可找到生成的markdown文档，点击进入此文档即可开始编辑文档。</p>
 <h3 id="编辑文档"><a href="#编辑文档" class="headerlink" title="编辑文档"></a>编辑文档</h3><p>为文档添加分类以及标签，在date一行的下面，添加categories和tags属性（注意空格）：</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: 使用指南</span><br><span class="line">date: 2023-08-05 13:33:19</span><br><span class="line">categories: （文章的分类）</span><br><span class="line">- 使用指南 </span><br><span class="line">tags: （文章的标签）</span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">- 标签3</span><br></pre></td></tr></table></figure>
 
 <p>之后在横线的下方写入文章的内容即可。</p>
-<img src="C:\Users\hey WYL\AppData\Roaming\Typora\typora-user-images\image-20230805154904606.png" alt="image-20230805154904606" style="zoom:50%;" />
-
+<p><img src="/../images/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/image-20230805161608189.png" alt="image-20230805161608189"></p>
 <h3 id="生成-删除静态文件及部署"><a href="#生成-删除静态文件及部署" class="headerlink" title="生成&#x2F;删除静态文件及部署"></a>生成&#x2F;删除静态文件及部署</h3><p>博客编写结束之后即可预览文章效果以及部署到博客上。</p>
 <p>删除静态文件：<code>hexo c</code> </p>
 <p>生成静态文件：<code>hexo g</code> </p>
@@ -77,6 +75,7 @@
 <li>启动本地端口查看效果：<code>hexo s</code> (查看结束ctrl+c结束本地端口)</li>
 <li>重新部署：<code>hexo d</code>，稍等一段时间后刷新网页，发现主题生效</li>
 </ul>
+<div class="pdfobject-container" data-target="http://uschar.xyz/pdf/731.pdf" data-height="500px"></div>
 ]]></content>
       <categories>
         <category>使用指南</category>
