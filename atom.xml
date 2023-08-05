@@ -3,11 +3,11 @@
   <title>组会</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://uschar.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://uschar.xyz/"/>
   <updated>2023-08-03T07:45:19.779Z</updated>
-  <id>http://example.com/</id>
+  <id>http://uschar.xyz/</id>
   
   <author>
     <name>USC_HAR</name>
@@ -18,27 +18,27 @@
   
   <entry>
     <title>测试</title>
-    <link href="http://example.com/2023/08/03/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2023/08/03/%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://uschar.xyz/2023/08/03/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://uschar.xyz/2023/08/03/%E6%B5%8B%E8%AF%95/</id>
     <published>2023-08-03T07:36:01.000Z</published>
     <updated>2023-08-03T07:45:19.779Z</updated>
     
     
     
     
-    <category term="使用介绍" scheme="http://example.com/categories/%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
+    <category term="使用介绍" scheme="http://uschar.xyz/categories/%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
     
     
-    <category term="迁移学习" scheme="http://example.com/tags/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/"/>
+    <category term="迁移学习" scheme="http://uschar.xyz/tags/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="对比学习" scheme="http://example.com/tags/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/"/>
+    <category term="对比学习" scheme="http://uschar.xyz/tags/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="http://example.com/2023/07/27/2023-7-27/"/>
-    <id>http://example.com/2023/07/27/2023-7-27/</id>
+    <link href="http://uschar.xyz/2023/07/27/2023-7-27/"/>
+    <id>http://uschar.xyz/2023/07/27/2023-7-27/</id>
     <published>2023-07-27T07:45:57.724Z</published>
     <updated>2023-08-03T07:31:39.247Z</updated>
     
@@ -56,8 +56,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/07/21/hello-world/"/>
-    <id>http://example.com/2023/07/21/hello-world/</id>
+    <link href="http://uschar.xyz/2023/07/21/hello-world/"/>
+    <id>http://uschar.xyz/2023/07/21/hello-world/</id>
     <published>2023-07-21T12:57:32.915Z</published>
     <updated>2023-08-03T07:16:39.764Z</updated>
     
