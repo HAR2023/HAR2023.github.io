@@ -46,4 +46,40 @@
         <tag>对比学习</tag>
       </tags>
   </entry>
+  <entry>
+    <title>使用指南</title>
+    <url>/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h2 id="1、配置"><a href="#1、配置" class="headerlink" title="1、配置"></a>1、配置</h2><h2 id="2、新建文章"><a href="#2、新建文章" class="headerlink" title="2、新建文章"></a>2、新建文章</h2><h3 id="使用命令来新建文章"><a href="#使用命令来新建文章" class="headerlink" title="使用命令来新建文章"></a>使用命令来新建文章</h3><p><code>hexo new  &quot;title&quot;</code></p>
+<p>例如 <code>hexo new  &quot;使用指南&quot;</code></p>
+<p>之后会生成一个  “使用指南.md”的文档：</p>
+<p>![](C:\Users\hey WYL\AppData\Roaming\Typora\typora-user-images\image-20230805154834123.png)</p>
+<p>![](C:\Users\hey WYL\Desktop\RO4I.gif)</p>
+<p>在生成路径下即可找到生成的markdown文档，点击进入此文档即可开始编辑文档。</p>
+<h3 id="编辑文档"><a href="#编辑文档" class="headerlink" title="编辑文档"></a>编辑文档</h3><p>为文档添加分类以及标签，在date一行的下面，添加categories和tags属性（注意空格）：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: 使用指南</span><br><span class="line">date: 2023-08-05 13:33:19</span><br><span class="line">categories: （文章的分类）</span><br><span class="line">- 使用指南 </span><br><span class="line">tags: （文章的标签）</span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">- 标签3</span><br></pre></td></tr></table></figure>
+
+<p>之后在横线的下方写入文章的内容即可。</p>
+<img src="C:\Users\hey WYL\AppData\Roaming\Typora\typora-user-images\image-20230805154904606.png" alt="image-20230805154904606" style="zoom:50%;" />
+
+<h3 id="生成-删除静态文件及部署"><a href="#生成-删除静态文件及部署" class="headerlink" title="生成&#x2F;删除静态文件及部署"></a>生成&#x2F;删除静态文件及部署</h3><p>博客编写结束之后即可预览文章效果以及部署到博客上。</p>
+<p>删除静态文件：<code>hexo c</code> </p>
+<p>生成静态文件：<code>hexo g</code> </p>
+<p>启用本地端口：<code>hexo s</code></p>
+<p>​	正常情况下，每次启动本地端口前只需更新静态文件即可。如果发生了一些错误，可以先删除静态文件，然后再重新生成。</p>
+<p>​	生成静态文件之后，便要启动本地端口。然后访问命令行返回的地址便能在本地访问到博客了。此时博客还未上传，可以达到预览效果。</p>
+<p>重新部署：<code>hexo d</code></p>
+<pre><code> 将修改后的内容同步到github中，从而更新博客内容。
+</code></pre>
+<p>总结博客编写完成之后的步骤为：</p>
+<ul>
+<li>删除已有静态文件：<code>hexo clean</code> 简写 <code>hexo c</code></li>
+<li>重新生成静态文件：<code>hexo g</code></li>
+<li>启动本地端口查看效果：<code>hexo s</code> (查看结束ctrl+c结束本地端口)</li>
+<li>重新部署：<code>hexo d</code>，稍等一段时间后刷新网页，发现主题生效</li>
+</ul>
+]]></content>
+      <categories>
+        <category>使用指南</category>
+      </categories>
+  </entry>
 </search>
