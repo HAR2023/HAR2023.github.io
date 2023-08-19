@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://uschar.xyz/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-08-05</lastmod>
+    <loc>http://uschar.xyz/2023/08/19/text2/</loc>
+    <lastmod>2023-08-19</lastmod>
   </url>
   <url>
     <loc>http://uschar.xyz/2023/08/03/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-08-05</lastmod>
+    <lastmod>2023-08-19</lastmod>
+  </url>
+  <url>
+    <loc>http://uschar.xyz/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2023-08-19</lastmod>
   </url>
   <url>
     <loc>http://uschar.xyz/2023/07/27/2023-7-27/</loc>

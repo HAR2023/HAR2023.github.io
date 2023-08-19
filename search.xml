@@ -36,7 +36,10 @@
   <entry>
     <title>usc_har的组会1784707887</title>
     <url>/2023/08/03/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p>测试1784707887，wyl111</p>
+    <content><![CDATA[<iframe src="/pdfjs/web/viewer.html?file=http://uschar.xyz/pdf/731.pdf" width="100%" height="500px" frameborder="0"></iframe>
+
+
+
 ]]></content>
       <categories>
         <category>使用介绍</category>
@@ -75,10 +78,28 @@
 <li>启动本地端口查看效果：<code>hexo s</code> (查看结束ctrl+c结束本地端口)</li>
 <li>重新部署：<code>hexo d</code>，稍等一段时间后刷新网页，发现主题生效</li>
 </ul>
+<embed scr="./731.pdf" width="100%" heigh="750" type="application/pdf">
+<div class="pdfobject-container" data-target="./731.pdf" data-height="500px"></div>
+
 <div class="pdfobject-container" data-target="http://uschar.xyz/pdf/731.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="./pdf/731.pdf" data-height="500px"></div>
+<div class="pdfobject-container" data-target="/pdf/731.pdf" data-height="500px"></div>
+
+
+
 ]]></content>
       <categories>
         <category>使用指南</category>
       </categories>
+  </entry>
+  <entry>
+    <title>text2</title>
+    <url>/2023/08/19/text2/</url>
+    <content><![CDATA[<p>哈哈</p>
+<iframe src="/pdfjs/web/viewer.html?file=./text2/731.pdf" width="100%" height="500px" frameborder="0"></iframe>
+
+<div class="pdfobject-container" data-target="http://uschar.xyz/pdf/731.pdf" data-height="500px"></div>
+
+<iframe src="/pdfjs/web/viewer.html?file=731.pdf" width="100%" height="500px" frameborder="0"></iframe>]]></content>
   </entry>
 </search>
