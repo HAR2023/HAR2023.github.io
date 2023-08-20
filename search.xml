@@ -36,11 +36,7 @@
   <entry>
     <title>usc_har的组会1784707887</title>
     <url>/2023/08/03/%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<iframe src="/pdfjs/web/viewer.html?file=http://uschar.xyz/pdf/731.pdf" width="100%" height="500px" frameborder="0"></iframe>
-
-
-
-]]></content>
+    <content><![CDATA[]]></content>
       <categories>
         <category>使用介绍</category>
       </categories>
@@ -93,9 +89,8 @@
       </categories>
   </entry>
   <entry>
-    <title>text2</title>
+    <title>测试2</title>
     <url>/2023/08/19/text2/</url>
-    <content><![CDATA[<p>哈哈</p>
-<iframe src="/pdfjs/web/viewer.html?file=731.pdf" width="100%" height="500px" frameborder="0"></iframe>]]></content>
+    <content><![CDATA[<iframe src="/pdfjs/web/viewer.html?file=731.pdf" width="100%" height="500px" frameborder="0"></iframe>]]></content>
   </entry>
 </search>
