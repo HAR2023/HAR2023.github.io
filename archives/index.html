@@ -135,16 +135,6 @@
     <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
 
   </li>
-        <li class="menu-item menu-item-schedule">
-
-    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a>
-
-  </li>
-        <li class="menu-item menu-item-sitemap">
-
-    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>站点地图</a>
-
-  </li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -202,13 +192,33 @@
   <div class="post-block">
     <div class="posts-collapse">
       <div class="collection-title">
-        <span class="collection-header">嗯..! 目前共计 5 篇日志。 继续努力。</span>
+        <span class="collection-header">嗯..! 目前共计 4 篇日志。 继续努力。</span>
       </div>
 
       
     <div class="collection-year">
       <span class="collection-header">2023</span>
     </div>
+
+  <article itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+
+      <div class="post-meta">
+        <time itemprop="dateCreated"
+              datetime="2023-08-29T00:54:14+08:00"
+              content="2023-08-29">
+          08-29
+        </time>
+      </div>
+
+      <div class="post-title">
+          <a class="post-title-link" href="/2023/08/29/8.29/" itemprop="url">
+            <span itemprop="name">DanHar:基于可穿戴传感器的多模态人体活动识别的双注意网络</span>
+          </a>
+      </div>
+
+    </header>
+  </article>
 
   <article itemscope itemtype="http://schema.org/Article">
     <header class="post-header">
@@ -244,46 +254,6 @@
       <div class="post-title">
           <a class="post-title-link" href="/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/" itemprop="url">
             <span itemprop="name">使用指南</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-08-03T15:36:01+08:00"
-              content="2023-08-03">
-          08-03
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/08/03/%E6%B5%8B%E8%AF%95/" itemprop="url">
-            <span itemprop="name">usc_har的组会1784707887</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-07-27T15:45:57+08:00"
-              content="2023-07-27">
-          07-27
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2023/07/27/2023-7-27/" itemprop="url">
-            <span itemprop="name">未命名</span>
           </a>
       </div>
 
@@ -384,7 +354,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">5</span>
+          <span class="site-state-item-count">4</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -397,7 +367,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-count">1</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -535,6 +505,35 @@ setInterval("createtime()",250);
   
 
   
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : false,
+      appId      : 'NtTpbg3cqRb99rNexZa62cFe-gzGzoHsz',
+      appKey     : 'WfNQ4FhhvxMvR2HTfCVLzhNC',
+      placeholder: "期待与您的交流",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : false,
+      lang       : 'zh-cn' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : true,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>

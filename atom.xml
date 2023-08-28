@@ -6,7 +6,7 @@
   <link href="http://uschar.xyz/atom.xml" rel="self"/>
   
   <link href="http://uschar.xyz/"/>
-  <updated>2023-08-20T15:14:23.919Z</updated>
+  <updated>2023-08-28T17:19:04.120Z</updated>
   <id>http://uschar.xyz/</id>
   
   <author>
@@ -17,17 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>DanHar:基于可穿戴传感器的多模态人体活动识别的双注意网络</title>
+    <link href="http://uschar.xyz/2023/08/29/8.29/"/>
+    <id>http://uschar.xyz/2023/08/29/8.29/</id>
+    <published>2023-08-28T16:54:14.000Z</published>
+    <updated>2023-08-28T17:19:04.120Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;​	从多模态传感器数据中识别人类活动是一项具有挑战性的任务。在本文中，我们首次提出了称为&lt;br&gt;&lt;strong&gt;DanHAR的双注意方法&lt;/strong&gt;，该方法同时使用通道注意和时间注意来更好地理解和改进用于各种多模态&lt;br&gt;HAR任务的深度网络。DanHAR采用混合框架，将双注意机制与CNN或残差网络相结合，融合多模态&lt;br&gt;传感器信息，具有更好地捕捉多模态感知数据时空格局的能力。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="组会" scheme="http://uschar.xyz/categories/%E7%BB%84%E4%BC%9A/"/>
+    
+    
+    <category term="注意力机制" scheme="http://uschar.xyz/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试2</title>
     <link href="http://uschar.xyz/2023/08/19/text2/"/>
     <id>http://uschar.xyz/2023/08/19/text2/</id>
     <published>2023-08-19T07:21:12.000Z</published>
-    <updated>2023-08-20T15:14:23.919Z</updated>
+    <updated>2023-08-27T04:57:19.949Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;iframe src=&quot;/pdfjs/web/viewer.html?file=731.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</summary>
-      
+    <summary type="html">本使用指南将为您提供全面的指导，帮助您充分利用此网站的功能和资源。以及使用过程中的各类操作进行详细的描述。</summary>
     
     
     
@@ -39,7 +55,7 @@
     <link href="http://uschar.xyz/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
     <id>http://uschar.xyz/2023/08/05/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
     <published>2023-08-05T05:33:19.000Z</published>
-    <updated>2023-08-19T07:21:55.782Z</updated>
+    <updated>2023-08-27T07:09:41.479Z</updated>
     
     
     <summary type="html">本使用指南将为您提供全面的指导，帮助您充分利用此网站的功能和资源。以及使用过程中的各类操作进行详细的描述。</summary>
@@ -47,44 +63,6 @@
     
     
     <category term="使用指南" scheme="http://uschar.xyz/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>usc_har的组会1784707887</title>
-    <link href="http://uschar.xyz/2023/08/03/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://uschar.xyz/2023/08/03/%E6%B5%8B%E8%AF%95/</id>
-    <published>2023-08-03T07:36:01.000Z</published>
-    <updated>2023-08-20T15:14:00.948Z</updated>
-    
-    
-    
-    
-    <category term="使用介绍" scheme="http://uschar.xyz/categories/%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/"/>
-    
-    
-    <category term="迁移学习" scheme="http://uschar.xyz/tags/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="对比学习" scheme="http://uschar.xyz/tags/%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://uschar.xyz/2023/07/27/2023-7-27/"/>
-    <id>http://uschar.xyz/2023/07/27/2023-7-27/</id>
-    <published>2023-07-27T07:45:57.724Z</published>
-    <updated>2023-08-03T07:31:39.247Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;1-第一&quot;&gt;&lt;a href=&quot;#1-第一&quot; class=&quot;headerlink&quot; title=&quot;1.第一&quot;&gt;&lt;/a&gt;1.第一&lt;/h1&gt;&lt;p&gt;111111&lt;/p&gt;
-&lt;h2 id=&quot;2-第二&quot;&gt;&lt;a href=&quot;#2-第二&quot; class=&quot;headerlink&quot; ti</summary>
-      
-    
-    
     
     
   </entry>
